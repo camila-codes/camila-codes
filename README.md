@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oi, eu sou Camila Rosa 👋
 
-<!--
-**camila-codes/camila-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet  
+💻 Focada em Desenvolvimento Front-end  
+📍 Pernambuco, Brasil
 
-Here are some ideas to get you started:
+## Sobre mim
+Estou construindo minha carreira em tecnologia com foco em desenvolvimento front-end. Atualmente estudo HTML, CSS, JavaScript, Git/GitHub e busco oportunidades de estágio para ganhar experiência prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou estudando
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Figma
+
+## Objetivo
+Buscando estágio em Front-end ou oportunidades em TI para desenvolver experiência profissional e evoluir como desenvolvedora.
+
+## Contato
+- LinkedIn: (https://www.linkedin.com/in/camila-rosa-8b1644406/)
+- Email: (rosacamila186@gmail.com)
